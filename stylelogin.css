@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(214, 214, 214);
+    color: white;
+    font: 13px arial;
+
+}
+
+header{
+    padding: 20px;
+}
+ 
+section{
+    background-color: white;
+    color: black;
+    padding: 30px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.336);
+}
+
+section img{
+    width: 110px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#log{
+    text-align: center;
+    color: rgb(216, 13, 13);
+    font: 15px arial;
+    
+}
+
+#logg{
+    text-align: center;
+    color: rgb(75, 75, 75);
+    margin-bottom: 15px;
+}
+
+label {
+    color: rgb(95, 95, 95);
+    display: block;
+    margin-top: 2px;
+}
+
+#form input{
+    border-radius: 5px;
+    outline: 0;
+    width: 99%;
+    height: 25px;
+    border: 1px solid rgb(131, 131, 131);
+}
+
+#acessar input{
+    background-image: linear-gradient(to right, rgb(223, 53, 53), rgb(156, 33, 33));
+    color: white;
+    border-radius: 30px;
+    width: 100%;
+    padding: 10px;
+    border: 0px;
+    outline: 0px;
+    
+}
+
+

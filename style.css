@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(92, 171, 202);
+    color: white;
+    font: 15px arial;
+
+}
+
+header{
+    text-align: center;
+    font: 25px arial;
+    
+ 
+}
+section{
+    background-color: white;
+    color: black;
+    padding: 30px;
+    width: 360px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.336);
+}
+
+section .precoo{
+    margin-top: -15px;
+    font: 15px arial;
+    color: rgb(206, 206, 206);
+    margin-bottom: 25px;
+}
+
+#bb input{
+    background-color: rgb(66, 189, 132);
+    border: none;
+    color: white;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+
+
+section img{
+    width: 350px;
+    
+
+}
+
+#res{
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    margin-top: 10px;
+    font: 20px arial;
+    
+}
+
+
+footer{
+    font: 20px Arial;
+    text-align: center;
+}
