@@ -29,7 +29,7 @@ section img{
 
 #log{
     text-align: center;
-    color: rgb(216, 13, 13);
+    color: rgb(74, 84, 199);
     font: 15px arial;
     
 }
@@ -55,7 +55,7 @@ label {
 }
 
 #acessar input{
-    background-image: linear-gradient(to right, rgb(223, 53, 53), rgb(156, 33, 33));
+    background-image: linear-gradient(to right, rgb(65, 103, 215), rgb(39, 33, 156));
     color: white;
     border-radius: 30px;
     width: 100%;

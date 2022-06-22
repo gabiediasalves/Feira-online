@@ -1,7 +1,7 @@
         var img = document.getElementById('imagem')
         var data = new Date()
-        //var hora = data.getHours()
-        var hora = 22
+        var hora = data.getHours()
+        
     
 
         if ( hora >= 0 && hora <= 5 ) {
@@ -32,11 +32,7 @@ function calcular() {
     var g = document.getElementById('grape')
     var o = document.getElementById('orange')
 
-//banana 1
-//apple 5
-//cherry 8
-//grape 7
-//orange 4
+
    resb = b.value * 1
    resa = a.value * 5
    resc = c.value * 8
